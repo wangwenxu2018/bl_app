@@ -130,7 +130,7 @@ int main(int argc, char *argv[])
           if(data == ':')
           {
             load_hex_status = 1;
-            //printf("\n"); 
+            printf("\n"); 
           }
         break;
         case 6:
